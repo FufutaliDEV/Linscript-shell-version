@@ -32,7 +32,7 @@ Baixe o Script RAW:
 
 Bash
 
-curl -sLf <SEU_LINK_RAW_DO_LINSCRIPTSHELL.SH> -o linscript.sh
+curl -sLf https://gist.githubusercontent.com/FufutaliDEV/a3f0644994e39d78a9e9c40e5b788e24/raw/31288c9a54e1fafc3f95c6c2a1629e0f5f1c0401/linscriptshell.sh -o linscript.sh
 Dê Permissão e Execute:
 
 Bash
